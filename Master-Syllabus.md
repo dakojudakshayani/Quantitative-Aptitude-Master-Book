@@ -1,5 +1,5 @@
-Mathematics & Quantitative Aptitude Master Book
-Master Syllabus -- Version 2.0
+# Mathematics & Quantitative Aptitude Master Book
+## Master Syllabus -- Version 2.0
 Purpose: A structured, beginner-to-advanced mathematics and
 quantitative aptitude resource for campus placements and relevant
 competitive examinations.
